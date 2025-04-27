@@ -1,1 +1,3 @@
 # CS330
+
+This project has helped me grow my design skills by allowing me to create a step by step process. This step by step process allows me to build a design one layer at a time. This reduces errors and confusion while coding the project. It has help me solidfy the build and test method for each code change made. Using this technique allows me to see exactly what changes are being done for each line of code. If I noticed that an unintended effect happened due to my code, I simply removed the change or modified it and ran the code again. This allowed me to fail forward and not get lost in the code base chasing simple problems. Computer science has allowed me to impliment these core testing pricinples in my daily life. Increasing my efficiency and saving me time.
